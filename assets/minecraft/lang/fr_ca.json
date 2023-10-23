@@ -1,0 +1,10 @@
+{
+  "death.attack.drown": "%1$s à essayé de retrouver le sous-marin Ocean Gate",
+  "death.attack.explosion": "%1$s à refait le 11 Septembre",
+  "death.attack.explosion.player": "%1$s pensait que %2$s était sympa",
+  "death.attack.explosion.player.item": "%1$s Je t'ai dit que %2$s utilisait %3$s",
+  "death.attack.mob": "%1$s a perdu le match de MMA face à %2$s",
+  "death.attack.onFire": "%1$s à essayé d'aller en enfer",
+  "death.attack.outOfWorld": "%1$s à quitté son âme",
+  "death.attack.outOfWorld.player": "%2$s n'appréciait pas %1$s"
+}

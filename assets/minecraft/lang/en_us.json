@@ -1,0 +1,10 @@
+{
+  "death.attack.drown": "%1$s tried to find Ocean Gate submarine",
+  "death.attack.explosion": "%1$s remaked 9/11",
+  "death.attack.explosion.player": "%1$s tought that %2$s was friendly",
+  "death.attack.explosion.player.item": "%1$s I told you that %2$s use %3$s",
+  "death.attack.mob": "%1$s lost the MMA match in front of %2$s",
+  "death.attack.onFire": "%1$s tried to go in hell",
+  "death.attack.outOfWorld": "%1$s left his soul",
+  "death.attack.outOfWorld.player": "%1$s didn't appreciate %2$s"
+}
