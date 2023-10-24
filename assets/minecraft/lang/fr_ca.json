@@ -6,5 +6,6 @@
   "death.attack.mob": "%1$s a perdu le match de MMA face à %2$s",
   "death.attack.onFire": "%1$s à essayé d'aller en enfer",
   "death.attack.outOfWorld": "%1$s à quitté son âme",
-  "death.attack.outOfWorld.player": "%2$s n'appréciait pas %1$s"
+  "death.attack.outOfWorld.player": "%2$s n'appréciait pas %1$s",
+  "item.minecraft.music_disc_11.desc": "§6When the group chat got leaked"
 }
