@@ -21198,9 +21198,14 @@
     ]
   },
   "ui.toast.in": {
+    "replace": true,
     "sounds": [
       {
-        "name": "ui/toast/in",
+        "name": "ui/toast/in1",
+        "volume": 0.4
+      },
+      {
+        "name": "ui/toast/in2",
         "volume": 0.4
       }
     ]
