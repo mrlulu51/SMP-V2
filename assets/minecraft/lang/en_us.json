@@ -7,5 +7,6 @@
   "death.attack.onFire": "%1$s tried to go in hell",
   "death.attack.outOfWorld": "%1$s left his soul",
   "death.attack.outOfWorld.player": "%1$s didn't appreciate %2$s",
-  "item.minecraft.music_disc_11.desc": "§6When the group chat got leaked"
+  "item.minecraft.music_disc_11.desc": "§6When the group chat got leaked",
+  "item.minecraft.music_disc_relic.desc": "§3Smurf cat"
 }

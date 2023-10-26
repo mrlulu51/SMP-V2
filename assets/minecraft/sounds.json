@@ -16295,9 +16295,7 @@
   },
   "entity.skeleton.ambient": {
     "sounds": [
-      "mob/skeleton/say1",
-      "mob/skeleton/say2",
-      "mob/skeleton/say3"
+      "mob/skeleton/say4"
     ],
     "subtitle": "subtitles.entity.skeleton.ambient"
   },
@@ -17949,9 +17947,7 @@
   },
   "entity.wolf.ambient": {
     "sounds": [
-      "mob/wolf/bark1",
-      "mob/wolf/bark2",
-      "mob/wolf/bark3"
+      "mob/wolf/bark4"
     ],
     "subtitle": "subtitles.entity.wolf.ambient"
   },
