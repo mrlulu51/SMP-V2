@@ -8753,27 +8753,9 @@
     "subtitle": "subtitles.block.generic.place"
   },
   "block.sculk_shrieker.shriek": {
+    "replace": true,
     "sounds": [
-      {
-        "name": "block/sculk_shrieker/shriek1",
-        "volume": 0.85
-      },
-      {
-        "name": "block/sculk_shrieker/shriek2",
-        "volume": 0.85
-      },
-      {
-        "name": "block/sculk_shrieker/shriek3",
-        "volume": 0.85
-      },
-      {
-        "name": "block/sculk_shrieker/shriek4",
-        "volume": 0.85
-      },
-      {
-        "name": "block/sculk_shrieker/shriek5",
-        "volume": 0.85
-      }
+      "block/sculk_shrieker/shriek6"
     ],
     "subtitle": "subtitles.block.sculk_shrieker.shriek"
   },
@@ -14532,30 +14514,7 @@
   },
   "entity.parrot.ambient": {
     "sounds": [
-      {
-        "name": "mob/parrot/idle1",
-        "volume": 0.7
-      },
-      {
-        "name": "mob/parrot/idle2",
-        "volume": 0.7
-      },
-      {
-        "name": "mob/parrot/idle3",
-        "volume": 0.7
-      },
-      {
-        "name": "mob/parrot/idle4",
-        "volume": 0.7
-      },
-      {
-        "name": "mob/parrot/idle5",
-        "volume": 0.7
-      },
-      {
-        "name": "mob/parrot/idle6",
-        "volume": 0.7
-      }
+      "mob/parrot/idle7"
     ],
     "subtitle": "subtitles.entity.parrot.ambient"
   },
@@ -15881,8 +15840,7 @@
   },
   "entity.puffer_fish.hurt": {
     "sounds": [
-      "entity/pufferfish/hurt1",
-      "entity/pufferfish/hurt2"
+      "entity/pufferfish/hurt3"
     ],
     "subtitle": "subtitles.entity.puffer_fish.hurt"
   },
@@ -16309,7 +16267,7 @@
   },
   "entity.skeleton.death": {
     "sounds": [
-      "mob/skeleton/death"
+      "mob/skeleton/death2"
     ],
     "subtitle": "subtitles.entity.skeleton.death"
   },
@@ -18224,10 +18182,9 @@
     "subtitle": "subtitles.entity.zombie_horse.hurt"
   },
   "entity.zombie_villager.ambient": {
+    "replace": true,
     "sounds": [
-      "mob/zombie_villager/say1",
-      "mob/zombie_villager/say2",
-      "mob/zombie_villager/say3"
+      "mob/zombie_villager/say4"
     ],
     "subtitle": "subtitles.entity.zombie_villager.ambient"
   },
